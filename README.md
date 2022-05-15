@@ -13,22 +13,17 @@
  
  <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Jeopard-ish!</h3>
+      <h3 align="center">Marvel Movie App!</h3>
         <br />
-        <a target="_blank" href="https://jeopard-ish.netlify.app">
-            <img src="assets/jeopardy.gif" width="100%" alt="Jeopardy game"/>
+        <a target="_blank" href="">
+            <img src="assets/marvel-gif.mov" width="100%" alt="Marvel API"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/brendondsouza/Jeopardy-Game" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>  
-  <a href="https://jeopard-ish.netlify.app" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
+ 
       </p>
-        <p>Play a game of Jeopardy using this interactive game board, almost like the real deal!</p>
+        <p>An app for Marvel fans which shows the chronologic order in which the films are meant to be watched!</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">NASA's Astronomy Picture of the Day</h3>
