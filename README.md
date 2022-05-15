@@ -16,7 +16,7 @@
 <h3 align="center">Marvel Movie App!</h3>
 <br/>
 <a target="_blank" href="">
-<img src="/assets/marvel-gif.mov" width="100%" alt="Marvel API"/> 
+<img src="assets/marvel.mov" width="100%" alt="Marvel API"/> 
 </a>
 <br/>
 <p align="center">
