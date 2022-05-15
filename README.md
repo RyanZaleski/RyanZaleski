@@ -8,6 +8,9 @@
  <img src="https://github-readme-streak-stats.herokuapp.com?user=ryanzaleski&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
  </div>
  
+ <h1 align="center">Projects</h1>
+<table bordercolor="#66b2b2">
+ 
  <tr>
     <td width="50%" valign="top">
       <h3 align="center">Jeopard-ish!</h3>
