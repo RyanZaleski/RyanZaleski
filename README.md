@@ -4,13 +4,26 @@
  <h3 align="center">A full stack software engineer from London.</h3>
  <p align="left">If you're interested in seeing some of my work, take a look at my GitHub profile. I've got a few client projects up here, as well as some personal projects that I work on in my spare time. I'm always open to collaboration, so if you see something you like, feel free to reach out! </p>
  
+<div align="center">
+
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
+<img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
+<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
+
+ 
+ 
+ 
+</div> <br>
  
 
  
 
- <div align="center">
- <img src="https://github-readme-streak-stats.herokuapp.com?user=ryanzaleski&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
- <img src="https://github-readme-stats.vercel.app/api?username=ryanzaleski&theme=algolia&show_icons=true"/> </div>
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=ryanzaleski&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ryanzaleski&theme=algolia&show_icons=true"/> </div>
  
 <h1 align="center">Projects</h1>
 <table bordercolor="#66b2b2">
