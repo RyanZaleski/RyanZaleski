@@ -48,7 +48,7 @@ An app for Marvel fans which shows the chronologic order in which the films are 
 <h3 align="center">HNL Electrical</h3>
 <br/>
 <a target="_blank" href="">
-<img src="assets/hnlelectrical.gif" width="100%"  alt="HNL Electricals website"/>
+<img src="assets/hnlbanner.png" width="100%"  alt="HNL Electricals website"/>
 </a>
 <br/>
 <p align="center">
