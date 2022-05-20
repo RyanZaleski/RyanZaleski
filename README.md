@@ -31,7 +31,7 @@
  
 <tr>
 <td width="50%" valign="top">
-<h3 align="center">Marvel Movie App</h3>
+<h3 align="center">Marvel App</h3>
 <br/>
 <a target="_blank" href="">
 <img src="assets/marvelbanner.png" width="100%" alt="Marvel API"/> 
