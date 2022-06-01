@@ -23,7 +23,7 @@
  
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=ryanzaleski&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=RyanZaleski&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=1D912A&ring=1D912A&stroke=1D912A&currStreakNum=FFFFFF&currStreakLabel=FFFFFF)](https://git.io/streak-stats)"/>
 <img src="https://github-readme-stats.vercel.app/api?username=ryanzaleski&theme=algolia&show_icons=true"/> </div>
  
 <h1 align="center">Projects</h1>
