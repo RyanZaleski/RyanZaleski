@@ -1,4 +1,5 @@
- <img src="assets/banner.png" width="100%">
+ <img src="assets/Black Modern Freelance Designer Twitter Header (1).png" width="100%">
+ 
     
  <h1 align="center">Hi 👋, I'm Ryan</h1>
  <h3 align="center">A full stack web developer from London.</h3>
